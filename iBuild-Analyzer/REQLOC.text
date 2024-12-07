@@ -1,0 +1,32 @@
+Requisite Location Report
+Summary report:
+ZZZLIVE objects:
+    Objects with requisites in library ZZZLIVE: 7
+    Objects with requisites in library ZZZLIVE: 7
+    Objects with requisites in library ZZZSRC: 13
+
+Detail report:
+ZZZLIVE objects:
+    Objects with requisites in library ZZZLIVE:
+        *FILE LF        ZZZLIVE/CUSMSTL1                    
+        *FILE LF        ZZZLIVE/CUSMSTL2                    
+        *FILE LF        ZZZLIVE/CUSMSTL3                    
+        *FILE DSPF      ZZZLIVE/MNTMENU                     
+        *FILE DSPF      ZZZLIVE/SCHNAMD                     
+        *FILE DSPF      ZZZLIVE/SCHZIPD                     
+        *PGM RPGLE      ZZZLIVE/CUSTMAINT                   
+    Objects with requisites in library ZZZSRC:
+        *CMD            ZZZLIVE/CUSTMAINT                   
+        *FILE PF        ZZZLIVE/CUSMST                      
+        *FILE LF        ZZZLIVE/CUSMSTL1                    
+        *FILE LF        ZZZLIVE/CUSMSTL2                    
+        *FILE LF        ZZZLIVE/CUSMSTL3                    
+        *FILE DSPF      ZZZLIVE/MAINMENU                    
+        *FILE DSPF      ZZZLIVE/MNTMENU                     
+        *FILE DSPF      ZZZLIVE/SCHNAMD                     
+        *FILE DSPF      ZZZLIVE/SCHZIPD                     
+        *MODULE RPGLE   ZZZLIVE/CUSMAIN                     
+        *MODULE RPGLE   ZZZLIVE/CUSMNT                      
+        *MODULE RPGLE   ZZZLIVE/SCHNAM                      
+        *MODULE RPGLE   ZZZLIVE/SCHZIP                      
+End of Requisite Location Report.
